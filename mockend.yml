@@ -1,135 +1,25 @@
-
-data:
-  Dish:
-    - title: "Bowl de Açaí"
-      description: "Smoothie bowl con frutas frescas y granola."
-      price: 22000
-      category: "freshStart"
-      image: "fresh-start/bowl_de_acai.jpg"
-      label: "¡Destacado!"
-
-    - title: "Bowl de Chía y Té Matcha"
-      description: "Chía hidratada en leche vegetal con matcha."
-      price: 20000
-      category: "freshStart"
-      image: "fresh-start/bowl_de_chia_y_te_matcha.jpg"
-
-    - title: "Bowl Frutal"
-      description: "Mix de frutas tropicales con yogur natural."
-      price: 18000
-      category: "freshStart"
-      image: "fresh-start/bowl_frutal.jpg"
-
-    - title: "Bowl Primavera"
-      description: "Frutas de temporada con granola artesanal."
-      price: 19000
-      category: "freshStart"
-      image: "fresh-start/bowl_primavera.jpg"
-      label: "¡Nuevo!"
-
-    - title: "Parfait de berries"
-      description: "Yogur, mermelada de frutos rojos y granola."
-      price: 16000
-      category: "freshStart"
-      image: "fresh-start/parfait_de_berries.jpg"
-      label: "¡Destacado!"
-
-    - title: "Parfait de Manzanas Chai"
-      description: "Manzanas al chai con yogur y frutos secos."
-      price: 17000
-      category: "freshStart"
-      image: "fresh-start/parfait_de_manzanas_chai.jpg"
-      label: "¡Nuevo!"
-
-    - title: "Calentado Floré"
-      description: "Arroz con frijoles, plátano y huevo."
-      price: 25000
-      category: "brunch"
-      image: "brunch-and-breakfast/calentado_flore.jpg"
-      label: "¡Nuevo!"
-
-    - title: "Desayuno Clásico"
-      description: "Huevos al gusto, pan artesanal y bebida."
-      price: 23000
-      category: "brunch"
-      image: "brunch-and-breakfast/desayuno_clasico.jpg"
-      label: "¡Destacado!"
-
-    - title: "Hash Brown Veggie"
-      description: "Papas hash brown con vegetales asados."
-      price: 21000
-      category: "brunch"
-      image: "brunch-and-breakfast/hash_brown_veggie.webp"
-      label: "¡Destacado!"
-
-    - title: "Huevos Cremosos"
-      description: "Huevos revueltos con mantequilla y crema."
-      price: 20000
-      category: "brunch"
-      image: "brunch-and-breakfast/huevos_cremosos.jpg"
-
-    - title: "Huevos Mexicanos"
-      description: "Huevos revueltos con jitomate y cebolla."
-      price: 20000
-      category: "brunch"
-      image: "brunch-and-breakfast/huevos_mexicanos.webp"
-
-    - title: "Omelette Trufado"
-      description: "Omelette con champiñones y aceite de trufa."
-      price: 24000
-      category: "brunch"
-      image: "brunch-and-breakfast/omelette_trufado.jpg"
-
-    - title: "Pancakes Floretto"
-      description: "Pancakes con frutas y sirope de arce."
-      price: 22000
-      category: "brunch"
-      image: "brunch-and-breakfast/pancakes_floretto.jpg"
-
-    - title: "Sandwich de Huevo"
-      description: "Pan artesanal con huevo, aguacate y espinaca."
-      price: 18000
-      category: "brunch"
-      image: "brunch-and-breakfast/sandwich_de_huevo.webp"
-
-    - title: "Tostadas Francesas"
-      description: "Pan brioche con frutas y sirope."
-      price: 20000
-      category: "brunch"
-      image: "brunch-and-breakfast/tostadas_francesas.webp"
-
-    - title: "Waffle Breakfast"
-      description: "Waffle con frutas y crema batida."
-      price: 22000
-      category: "brunch"
-      image: "brunch-and-breakfast/waffle_breakfast.webp"
-
-    - title: "Waffle Colombiano"
-      description: "Waffle con arequipe y queso costeño."
-      price: 21000
-      category: "brunch"
-      image: "brunch-and-breakfast/waffle_colombiano.jpg"
-
-    - title: "Waffles de Pandebono"
-      description: "Waffles de pandebono con mermelada."
-      price: 19000
-      category: "brunch"
-      image: "brunch-and-breakfast/waffles_de_pandebono.webp"
-
-    - title: "Soda de Lychee"
-      description: "Refresco de lychee con un toque de menta."
-      price: 12000
-      category: "iceDrinks"
-      image: "ice-drinks/soda_de_lychee.webp"
-
-    - title: "Soda de Maracuyá"
-      description: "Refresco de maracuyá con un toque de hierbabuena."
-      price: 12000
-      category: "iceDrinks"
-      image: "ice-drinks/soda_de_maracuya.webp"
-
-    - title: "Soda de Frutos Rojos"
-      description: "Refresco de frutos rojos con un toque de limón."
-      price: 12000
-      category: "iceDrinks"
-      image: "ice-drinks/soda_frutos_rojos.webp"
+models:
+  Post:
+    data: [
+      { title: "Bowl de Açaí", description: "Smoothie bowl con frutas frescas y granola.", price: 22000, category: "freshStart", image: "fresh-start/bowl_de_acai.jpg", label: "¡Destacado!" },
+      { title: "Bowl de Chía y Té Matcha", description: "Chía hidratada en leche vegetal con matcha.", price: 20000, category: "freshStart", image: "fresh-start/bowl_de_chia_y_te_matcha.jpg" },
+      { title: "Bowl Frutal", description: "Mix de frutas tropicales con yogur natural.", price: 18000, category: "freshStart", image: "fresh-start/bowl_frutal.jpg" },
+      { title: "Bowl Primavera", description: "Frutas de temporada con granola artesanal.", price: 19000, category: "freshStart", image: "fresh-start/bowl_primavera.jpg", label: "¡Nuevo!" },
+      { title: "Parfait de berries", description: "Yogur, mermelada de frutos rojos y granola.", price: 16000, category: "freshStart", image: "fresh-start/parfait_de_berries.jpg", label: "¡Destacado!" },
+      { title: "Parfait de Manzanas Chai", description: "Manzanas al chai con yogur y frutos secos.", price: 17000, category: "freshStart", image: "fresh-start/parfait_de_manzanas_chai.jpg", label: "¡Nuevo!" },
+      { title: "Calentado Floré", description: "Arroz con frijoles, plátano y huevo.", price: 25000, category: "brunch", image: "brunch-and-breakfast/calentado_flore.jpg", label: "¡Nuevo!" },
+      { title: "Desayuno Clásico", description: "Huevos al gusto, pan artesanal y bebida.", price: 23000, category: "brunch", image: "brunch-and-breakfast/desayuno_clasico.jpg", label: "¡Destacado!" },
+      { title: "Hash Brown Veggie", description: "Papas hash brown con vegetales asados.", price: 21000, category: "brunch", image: "brunch-and-breakfast/hash_brown_veggie.webp", label: "¡Destacado!" },
+      { title: "Huevos Cremosos", description: "Huevos revueltos con mantequilla y crema.", price: 20000, category: "brunch", image: "brunch-and-breakfast/huevos_cremosos.jpg" },
+      { title: "Huevos Mexicanos", description: "Huevos revueltos con jitomate y cebolla.", price: 20000, category: "brunch", image: "brunch-and-breakfast/huevos_mexicanos.webp" },
+      { title: "Omelette Trufado", description: "Omelette con champiñones y aceite de trufa.", price: 24000, category: "brunch", image: "brunch-and-breakfast/omelette_trufado.jpg" },
+      { title: "Pancakes Floretto", description: "Pancakes con frutas y sirope de arce.", price: 22000, category: "brunch", image: "brunch-and-breakfast/pancakes_floretto.jpg" },
+      { title: "Sandwich de Huevo", description: "Pan artesanal con huevo, aguacate y espinaca.", price: 18000, category: "brunch", image: "brunch-and-breakfast/sandwich_de_huevo.webp" },
+      { title: "Tostadas Francesas", description: "Pan brioche con frutas y sirope.", price: 20000, category: "brunch", image: "brunch-and-breakfast/tostadas_francesas.webp" },
+      { title: "Waffle Breakfast", description: "Waffle con frutas y crema batida.", price: 22000, category: "brunch", image: "brunch-and-breakfast/waffle_breakfast.webp" },
+      { title: "Waffle Colombiano", description: "Waffle con arequipe y queso costeño.", price: 21000, category: "brunch", image: "brunch-and-breakfast/waffle_colombiano.jpg" },
+      { title: "Waffles de Pandebono", description: "Waffles de pandebono con mermelada.", price: 19000, category: "brunch", image: "brunch-and-breakfast/waffles_de_pandebono.webp" },
+      { title: "Soda de Lychee", description: "Refresco de lychee con un toque de menta.", price: 12000, category: "iceDrinks", image: "ice-drinks/soda_de_lychee.webp" },
+      { title: "Soda de Maracuyá", description: "Refresco de maracuyá con un toque de hierbabuena.", price: 12000, category: "iceDrinks", image: "ice-drinks/soda_de_maracuya.webp" },
+      { title: "Soda de Frutos Rojos", description: "Refresco de frutos rojos con un toque de limón.", price: 12000, category: "iceDrinks", image: "ice-drinks/soda_frutos_rojos.webp" }
+    ]
