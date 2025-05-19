@@ -1,7 +1,7 @@
 models:
   Post:
     data: [
-      { title: "Bowl de Açaí", description: "Smoothie bowl con frutas frescas y granola.", price: 22000, category: "freshStart", image: "fresh-start/bowl_de_acai.jpg", label: "¡Destacado!" },
+      { title: "Bowl de Açaí", description: "Smoothie bowl con frutas frescas y granola.", price: 22000, category: "freshStart", image: "https://raw.githubusercontent.com/JairoMolano/flore-menu/main/public/fresh-start/bowl_de_acai.jpg", label: "¡Destacado!" },
       { title: "Bowl de Chía y Té Matcha", description: "Chía hidratada en leche vegetal con matcha.", price: 20000, category: "freshStart", image: "fresh-start/bowl_de_chia_y_te_matcha.jpg" },
       { title: "Bowl Frutal", description: "Mix de frutas tropicales con yogur natural.", price: 18000, category: "freshStart", image: "fresh-start/bowl_frutal.jpg" },
       { title: "Bowl Primavera", description: "Frutas de temporada con granola artesanal.", price: 19000, category: "freshStart", image: "fresh-start/bowl_primavera.jpg", label: "¡Nuevo!" },
