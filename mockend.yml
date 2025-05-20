@@ -1,5 +1,5 @@
 models:
-  Post:
+  Dish:
     data: [
       { title: "Bowl de Açaí", description: "Smoothie bowl con frutas frescas y granola.", price: 22000, category: "freshStart", image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/fresh-start/bowl_de_acai.jpg", label: "¡Destacado!" },
       { title: "Bowl de Chía y Té Matcha", description: "Chía hidratada en leche vegetal con matcha.", price: 20000, category: "freshStart", image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/fresh-start/bowl_de_chia_y_te_matcha.jpg" },
