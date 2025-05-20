@@ -27,13 +27,13 @@ models:
         description: "Yogur, mermelada de frutos rojos y granola."
         price: 16000
         category: "freshStart"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/fresh-start/parfait_de_berries.jpg"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/fresh-start/parfait_de_berries.jpg"
         label: "¡Destacado!"
       - title: "Parfait de Manzanas Chai"
         description: "Manzanas al chai con yogur y frutos secos."
         price: 17000
         category: "freshStart"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/fresh-start/parfait_de_manzanas_chai.jpg"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/fresh-start/parfait_de_manzanas_chai.jpg"
         label: "¡Nuevo!"
       - title: "Calentado Floré"
         description: "Arroz con frijoles, plátano y huevo."
@@ -62,7 +62,7 @@ models:
         description: "Huevos revueltos con jitomate y cebolla."
         price: 20000
         category: "brunch"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/huevos_mexicanos.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/brunch-and-breakfast/huevos_mexicanos.webp"
       - title: "Omelette Trufado"
         description: "Omelette con champiñones y aceite de trufa."
         price: 24000
@@ -72,7 +72,7 @@ models:
         description: "Pancakes con frutas y sirope de arce."
         price: 22000
         category: "brunch"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/pancakes_floretto.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/brunch-and-breakfast/pancakes_floretto.webp"
       - title: "Sandwich de Huevo"
         description: "Pan artesanal con huevo, aguacate y espinaca."
         price: 18000
@@ -87,7 +87,7 @@ models:
         description: "Waffle con frutas y crema batida."
         price: 22000
         category: "brunch"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/waffle_breakfast.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/brunch-and-breakfast/waffle_breakfast.webp"
       - title: "Waffle Colombiano"
         description: "Waffle con arequipe y queso costeño."
         price: 21000
@@ -97,12 +97,12 @@ models:
         description: "Waffles de pandebono con mermelada."
         price: 19000
         category: "brunch"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/waffles_de_pandebono.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/brunch-and-breakfast/waffles_de_pandebono.webp"
       - title: "Soda de Lychee"
         description: "Refresco de lychee con un toque de menta."
         price: 12000
         category: "iceDrinks"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/ice-drinks/soda_de_lychee.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/ice-drinks/soda_de_lyche.webp"
       - title: "Soda de Maracuyá"
         description: "Refresco de maracuyá con un toque de hierbabuena."
         price: 12000
