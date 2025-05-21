@@ -38,7 +38,7 @@ models:
         price: 19000
         category: "Fresh Start"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/fresh-start/bowl_primavera.jpg"
-        label: "¡Nuevo!"
+        label_es: "¡Nuevo!"
         label_en: "New!"
 
       - id: "parfait_berries"
@@ -49,7 +49,7 @@ models:
         price: 16000
         category: "Fresh Start"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/fresh-start/parfait_de_berries.jpg"
-        label: "¡Destacado!"
+        label_es: "¡Destacado!"
         label_en: "Featured!"
 
       - id: "parfait_manzanas_chai"
@@ -60,7 +60,7 @@ models:
         price: 17000
         category: "Fresh Start"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/fresh-start/parfait_de_manzanas_chai.jpg"
-        label: "¡Nuevo!"
+        label_es: "¡Nuevo!"
         label_en: "New!"
 
       - id: "calentado_flore"
@@ -71,7 +71,7 @@ models:
         price: 25000
         category: "Brunch & Breakfast"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/calentado_flore.jpg"
-        label: "¡Nuevo!"
+        label_es: "¡Nuevo!"
         label_en: "New!"
 
       - id: "desayuno_clasico"
@@ -82,7 +82,7 @@ models:
         price: 23000
         category: "Brunch & Breakfast"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/desayuno_clasico.jpg"
-        label: "¡Destacado!"
+        label_es: "¡Destacado!"
         label_en: "Featured!"
 
       - id: "hash_brown_veggie"
@@ -93,7 +93,7 @@ models:
         price: 21000
         category: "Brunch & Breakfast"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/hash_brown_veggie.webp"
-        label: "¡Destacado!"
+        label_es: "¡Destacado!"
         label_en: "Featured!"
 
       - id: "huevos_cremosos"
