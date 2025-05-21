@@ -2,128 +2,106 @@ models:
   Dish:
     data:
       - id: "bowl_acai"
-        title:
-          es: "Bowl de Açaí"
-          en: "Açaí Bowl"
-        description:
-          es: "Smoothie bowl con frutas frescas y granola."
-          en: "Smoothie bowl with fresh fruits and granola."
+        title_es: "Bowl de Açaí"
+        title_en: "Açaí Bowl"
+        description_es: "Smoothie bowl con frutas frescas y granola."
+        description_en: "Smoothie bowl with fresh fruits and granola."
         price: 22000
         category: "freshStart"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/fresh-start/bowl_de_acai.jpg"
         label: "¡Destacado!"
 
       - id: "bowl_chia_matcha"
-        title:
-          es: "Bowl de Chía y Té Matcha"
-          en: "Chia and Matcha Bowl"
-        description:
-          es: "Chía hidratada en leche vegetal con matcha."
-          en: "Chia soaked in plant-based milk with matcha."
+        title_es: "Bowl de Chía y Té Matcha"
+        title_en: "Chia and Matcha Bowl"
+        description_es: "Chía hidratada en leche vegetal con matcha."
+        description_en: "Chia soaked in plant-based milk with matcha."
         price: 20000
         category: "freshStart"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/fresh-start/bowl_de_chia_y_te_matcha.jpg"
 
       - id: "bowl_frutal"
-        title:
-          es: "Bowl Frutal"
-          en: "Fruit Bowl"
-        description:
-          es: "Mix de frutas tropicales con yogur natural."
-          en: "Tropical fruit mix with natural yogurt."
+        title_es: "Bowl Frutal"
+        title_en: "Fruit Bowl"
+        description_es: "Mix de frutas tropicales con yogur natural."
+        description_en: "Tropical fruit mix with natural yogurt."
         price: 18000
         category: "freshStart"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/fresh-start/bowl_frutal.jpg"
 
       - id: "bowl_primavera"
-        title:
-          es: "Bowl Primavera"
-          en: "Spring Bowl"
-        description:
-          es: "Frutas de temporada con granola artesanal."
-          en: "Seasonal fruits with handmade granola."
+        title_es: "Bowl Primavera"
+        title_en: "Spring Bowl"
+        description_es: "Frutas de temporada con granola artesanal."
+        description_en: "Seasonal fruits with handmade granola."
         price: 19000
         category: "freshStart"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/fresh-start/bowl_primavera.jpg"
         label: "¡Nuevo!"
 
       - id: "parfait_berries"
-        title:
-          es: "Parfait de berries"
-          en: "Berry Parfait"
-        description:
-          es: "Yogur, mermelada de frutos rojos y granola."
-          en: "Yogurt, red fruit jam and granola."
+        title_es: "Parfait de berries"
+        title_en: "Berry Parfait"
+        description_es: "Yogur, mermelada de frutos rojos y granola."
+        description_en: "Yogurt, red fruit jam and granola."
         price: 16000
         category: "freshStart"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/fresh-start/parfait_de_berries.jpg"
         label: "¡Destacado!"
 
       - id: "parfait_manzanas_chai"
-        title:
-          es: "Parfait de Manzanas Chai"
-          en: "Chai Apple Parfait"
-        description:
-          es: "Manzanas al chai con yogur y frutos secos."
-          en: "Chai apples with yogurt and nuts."
+        title_es: "Parfait de Manzanas Chai"
+        title_en: "Chai Apple Parfait"
+        description_es: "Manzanas al chai con yogur y frutos secos."
+        description_en: "Chai apples with yogurt and nuts."
         price: 17000
         category: "freshStart"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/fresh-start/parfait_de_manzanas_chai.jpg"
         label: "¡Nuevo!"
 
       - id: "calentado_flore"
-        title:
-          es: "Calentado Floré"
-          en: "Floré Calentado"
-        description:
-          es: "Arroz con frijoles, plátano y huevo."
-          en: "Rice with beans, plantain and egg."
+        title_es: "Calentado Floré"
+        title_en: "Floré Calentado"
+        description_es: "Arroz con frijoles, plátano y huevo."
+        description_en: "Rice with beans, plantain and egg."
         price: 25000
         category: "brunch"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/calentado_flore.jpg"
         label: "¡Nuevo!"
 
       - id: "desayuno_clasico"
-        title:
-          es: "Desayuno Clásico"
-          en: "Classic Breakfast"
-        description:
-          es: "Huevos al gusto, pan artesanal y bebida."
-          en: "Eggs, artisanal bread and a drink."
+        title_es: "Desayuno Clásico"
+        title_en: "Classic Breakfast"
+        description_es: "Huevos al gusto, pan artesanal y bebida."
+        description_en: "Eggs, artisanal bread and a drink."
         price: 23000
         category: "brunch"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/desayuno_clasico.jpg"
         label: "¡Destacado!"
 
       - id: "soda_lychee"
-        title:
-          es: "Soda de Lychee"
-          en: "Lychee Soda"
-        description:
-          es: "Refresco de lychee con un toque de menta."
-          en: "Lychee soda with a hint of mint."
+        title_es: "Soda de Lychee"
+        title_en: "Lychee Soda"
+        description_es: "Refresco de lychee con un toque de menta."
+        description_en: "Lychee soda with a hint of mint."
         price: 12000
         category: "iceDrinks"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/ice-drinks/soda_de_lyche.webp"
 
       - id: "soda_maracuya"
-        title:
-          es: "Soda de Maracuyá"
-          en: "Passion Fruit Soda"
-        description:
-          es: "Refresco de maracuyá con un toque de hierbabuena."
-          en: "Passion fruit soda with a hint of spearmint."
+        title_es: "Soda de Maracuyá"
+        title_en: "Passion Fruit Soda"
+        description_es: "Refresco de maracuyá con un toque de hierbabuena."
+        description_en: "Passion fruit soda with a hint of spearmint."
         price: 12000
         category: "iceDrinks"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/ice-drinks/soda_de_maracuya.webp"
 
       - id: "soda_frutos_rojos"
-        title:
-          es: "Soda de Frutos Rojos"
-          en: "Red Fruit Soda"
-        description:
-          es: "Refresco de frutos rojos con un toque de limón."
-          en: "Red fruit soda with a touch of lemon."
+        title_es: "Soda de Frutos Rojos"
+        title_en: "Red Fruit Soda"
+        description_es: "Refresco de frutos rojos con un toque de limón."
+        description_en: "Red fruit soda with a touch of lemon."
         price: 12000
         category: "iceDrinks"
         image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/ice-drinks/soda_frutos_rojos.webp"
