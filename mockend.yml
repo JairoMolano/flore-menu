@@ -70,7 +70,7 @@ models:
         description_en: "Rice with beans, plantain, and egg."
         price: 25000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/calentado_flore.jpg"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/calentado_flore.jpg"
         label_es: "¡Nuevo!"
         label_en: "New!"
 
@@ -81,7 +81,7 @@ models:
         description_en: "Eggs your way, artisanal bread, and drink."
         price: 23000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/desayuno_clasico.jpg"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/desayuno_clasico.jpg"
         label_es: "¡Destacado!"
         label_en: "Featured!"
 
@@ -92,7 +92,7 @@ models:
         description_en: "Hash brown potatoes with roasted vegetables."
         price: 21000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/hash_brown_veggie.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/hash_brown_veggie.webp"
         label_es: "¡Destacado!"
         label_en: "Featured!"
 
@@ -103,7 +103,7 @@ models:
         description_en: "Scrambled eggs with butter and cream."
         price: 20000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/huevos_cremosos.jpg"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/huevos_cremosos.jpg"
 
       - id: "huevos_mexicanos"
         title_es: "Huevos Mexicanos"
@@ -112,7 +112,7 @@ models:
         description_en: "Scrambled eggs with tomato and onion."
         price: 20000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/Brunch & Breakfast-and-breakfast/huevos_mexicanos.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/brunch-and-breakfast/huevos_mexicanos.webp"
 
       - id: "omelette_trufado"
         title_es: "Omelette Trufado"
@@ -121,7 +121,7 @@ models:
         description_en: "Omelette with mushrooms and truffle oil."
         price: 24000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/omelette_trufado.jpg"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/omelette_trufado.jpg"
 
       - id: "pancakes_floretto"
         title_es: "Pancakes Floretto"
@@ -130,7 +130,7 @@ models:
         description_en: "Pancakes with fruits and maple syrup."
         price: 22000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/Brunch & Breakfast-and-breakfast/pancakes_floretto.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/brunch-and-breakfast/pancakes_floretto.webp"
 
       - id: "sandwich_de_huevo"
         title_es: "Sandwich de Huevo"
@@ -139,7 +139,7 @@ models:
         description_en: "Artisanal bread with egg, avocado, and spinach."
         price: 18000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/sandwich_de_huevo.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/sandwich_de_huevo.webp"
 
       - id: "tostadas_francesas"
         title_es: "Tostadas Francesas"
@@ -148,7 +148,7 @@ models:
         description_en: "Brioche bread with fruits and syrup."
         price: 20000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/tostadas_francesas.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/tostadas_francesas.webp"
 
       - id: "waffle_breakfast"
         title_es: "Waffle Breakfast"
@@ -157,7 +157,7 @@ models:
         description_en: "Waffle with fruits and whipped cream."
         price: 22000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/Brunch & Breakfast-and-breakfast/waffle_breakfast.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/brunch-and-breakfast/waffle_breakfast.webp"
 
       - id: "waffle_colombiano"
         title_es: "Waffle Colombiano"
@@ -166,7 +166,7 @@ models:
         description_en: "Waffle with arequipe and costeño cheese."
         price: 21000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/Brunch & Breakfast-and-breakfast/waffle_colombiano.jpg"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/main/brunch-and-breakfast/waffle_colombiano.jpg"
 
       - id: "waffles_de_pandebono"
         title_es: "Waffles de Pandebono"
@@ -175,7 +175,7 @@ models:
         description_en: "Pandebono waffles with jam."
         price: 19000
         category: "Brunch & Breakfast"
-        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/Brunch & Breakfast-and-breakfast/waffles_de_pandebono.webp"
+        image: "https://raw.githubusercontent.com/JairoMolano/flore-menu-images/refs/heads/main/brunch-and-breakfast/waffles_de_pandebono.webp"
 
       - id: "soda_lychee"
         title_es: "Soda de Lychee"
